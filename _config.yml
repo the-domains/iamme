@@ -1,0 +1,28 @@
+name: iamme
+favicon: null
+layout_spectrum: 0.8599494395311922
+typography_spectrum: 0.8636831576004624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.35052876896224916
+  lightness: 0.2016027260106057
+  saturation: 0.9285909559112042
+  rhythmicContrast: 0.5127364175859839
+purpose: []
