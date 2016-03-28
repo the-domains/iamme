@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iamme]]></title>
+        <description><![CDATA[iamme]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 09:38:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Life is fluid if you make it so, stiffen your mind and your body follows suit and tie son, look sharp! It's dark, turn off the light before you hurt yourself. That's better, that's life.</p>]]></description>
+            <link>undefinedlife-is-fluid-if-you-make-it-so-stiffen-your-mind-and-your/index.html</link>
+            <guid isPermaLink="false">a96a7e3d-019e-4109-a401-4d47b88a7dd7</guid>
+            <pubDate>Mon, 28 Mar 2016 09:37:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
